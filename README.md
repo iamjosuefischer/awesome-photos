@@ -1,14 +1,14 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/josuefischeroficial/awesome-photos)
-  ![GitHub stars](https://img.shields.io/github/stars/josuefischeroficial/awesome-photos?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/josuefischeroficial/awesome-photos?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/iamjosuefischer/awesome-photos)
+  ![GitHub stars](https://img.shields.io/github/stars/iamjosuefischer/awesome-photos?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/iamjosuefischer/awesome-photos?style=social)
 
   <h2 align="center">Awesome Photos, a fully responsive photo editor app - By: Josue Fischer</h2>
 
   Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://josuefischeroficial.github.io/awesome-photos/"><strong>➥ Live Demo</strong></a>
+  <a href="https://iamjosuefischer.github.io/awesome-photos/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -31,13 +31,13 @@ To run **Awesome Photos** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/josuefischeroficial/awesome-photos.git
+sudo git clone https://github.com/iamjosuefischer/awesome-photos.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/josuefischeroficial/awesome-photos.git
+git clone https://github.com/iamjosuefischer/awesome-photos.git
 ```
 
 ### Contact
